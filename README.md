@@ -1,6 +1,7 @@
 # 🚲 Bike Sales Excel Dashboard Project
 
 ![Excel](https://github.com/SaiSurajMatta/Bike-Sales-Excel-Dashboard-Project/assets/92928975/b12416c0-5eb3-457b-b90b-26e72240f052)
+
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner%20Friendly-blue?style=for-the-badge)
@@ -101,14 +102,6 @@ Bike-Sales-Excel-Dashboard-Project/
 - ✅ Interactive Dashboard design with Slicers
 - ✅ Business insight derivation from raw data
 - ✅ Data storytelling through visualization
-
----
-
-## 📸 Dashboard Preview
-
-> *(Add a screenshot of your dashboard here after opening the file)*
-> 
-> `![Dashboard Preview](dashboard_screenshot.png)`
 
 ---
 
